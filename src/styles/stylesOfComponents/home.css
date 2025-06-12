@@ -2,34 +2,6 @@
 
 
 
-@media (max-width: 767.98px) {
-    body {
-        font-size: 16px;
-        line-height: 20px;
-    }
-}
-
-@media (max-width: 991.98px) {
-    body {
-        font-size: 18px;
-        line-height: 22px;
-    }
-}
-
-body {
-    font-family: Arial, sans-serif;
-
-    line-height: 20px;
-    font-size: 16px;
-    font-weight: 400;
-
-
-
-
-
-    background: #f5f5fa;
-    color: #47474f;
-}
 
 .main {
     position: relative;
